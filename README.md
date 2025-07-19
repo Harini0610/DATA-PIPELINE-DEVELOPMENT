@@ -27,5 +27,5 @@ To make sure everything worked, I printed the shape of the processed data, and a
 This process is critical in many real-world scenarios such as preparing healthcare data (e.g., diagnosis and lab values), retail and e-commerce data (e.g., customer purchase behavior), financial data (e.g., credit scoring and fraud detection), HR datasets (e.g., attrition prediction), and IoT sensor data (e.g., fault detection in manufacturing), where ensuring high-quality, structured, and machine-readable input is crucial for effective machine learning modeling
 
 # OUTPUT
-https://github.com/user-attachments/assets/6d70d2de-3293-4e59-950d-50b124244a9b
+<img width="1407" height="919" alt="Image" src="https://github.com/user-attachments/assets/6d70d2de-3293-4e59-950d-50b124244a9b" />
 
